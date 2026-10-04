@@ -224,5 +224,4 @@ After we review your submission, we will schedule a short call. Be ready to disc
 This codebase has issues at multiple levels — some obvious, some subtle, some that are really future risks rather than current bugs. **You are not expected to find or fix everything.** Focus on what you believe is highest value, explain your reasoning, and stop when the timebox is up.
 
 Good luck.
-#   s u p e r r d e v - p a t c h - e x e r c i s e - p a t c h e d  
- 
+#
